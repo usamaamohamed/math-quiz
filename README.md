@@ -1,5 +1,5 @@
 # math-quiz
-generate math a quiz in C++
+generate a math  quiz in C++
 
 first computer will ask you how many questions you want , the difficulty level, and which operations you want 
 
